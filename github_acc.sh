@@ -5,3 +5,5 @@ git config --global user.email "abel.david@ignitarium.com"
 
 #By default, Git will cache your password for 15 minutes.
  git config --global credential.helper cache
+ git config --global credential.helper 'cache --timeout=3600'
+# Set the cache to timeout after 1 hour (setting is in seconds)
