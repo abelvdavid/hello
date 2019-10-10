@@ -1,10 +1,10 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:gnome-terminator 
+sudo add-apt-repository ppa:gnome-terminator  -y 
 
-sudo apt-get update
+sudo apt-get update -y
 
-sudo apt-get install terminator
+sudo apt-get install terminator -y
 
 nano ~/.bashrc and uncomment
 

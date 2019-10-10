@@ -1,12 +1,13 @@
 #!/bin/bash
 
-apt-get install wget
+#apt-get install wget
 
-wget -O vscode https://go.microsoft.com/fwlink/?LinkID=760868
+#wget -O vscode https://go.microsoft.com/fwlink/?LinkID=760868
 # Will Extract into the folder that you specify
 
-sudo dpkg -i /home/abeldavid/Downloads/zip/vscode && apt-get install -f
+#sudo dpkg -i /home/abeldavid/Downloads/zip/vscode && apt-get install -f
 
+#sudo snap install --classic code
 
 declare -a extensions=(
         donjayamanne.githistory # Git History

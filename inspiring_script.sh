@@ -14,14 +14,14 @@ else
 	         2 "LAMP Stack" off
 	         3 "Build Essentials" on
 	         4 "Node.js" on
-	         5 "Git" on
+	         5 "Git" off
 	         6 "Composer" on
 	         7 "JDK 8" on
 	         8 "Bleachbit" off
 	         9 "Ubuntu Restricted Extras" on
 	         10 "VLC Media Player" on
 	         11 "Unity Tewak Tool" on
-	         12 "Google Chrome" on
+	         12 "Google Chrome" off
 	         13 "Teamiewer" off
 	         14 "Skype" off
 	         15 "Paper GTK Theme" off
@@ -31,7 +31,7 @@ else
 			 19 "Multiload Indicator" off
 			 20 "Pensor" off
 			 21 "Netspeed Indicator" on
-			 22 "Generate SSH Keys" on
+			 22 "Generate SSH Keys" off
 			 23 "Ruby" off
 			 24 "Sass" off
 			 25 "Vnstat" off
